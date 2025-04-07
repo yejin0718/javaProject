@@ -16,5 +16,7 @@ public class Code3_07 {
         double changLb = kg * 2.204623;
 
         System.out.println(kg+"파운드(lb)는 " + changLb + "킬로그램(kg)입니다.");
+
+        s.close();
     }
 }
