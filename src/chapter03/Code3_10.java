@@ -15,6 +15,6 @@ public class Code3_10 {
         total += 2000 * 4;
         total += 1800 * 5;
 
-        System.out.println("편의점 일일 총 매출액: " + total + "원");
+        System.out.println("편의점 일일 총 매출액: " + total);
     }
 }
