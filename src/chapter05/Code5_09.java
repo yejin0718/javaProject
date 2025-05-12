@@ -11,7 +11,7 @@ public class Code5_09 {
         char dayCh = 0;
 
         switch (day) {
-            case Calendar.SUNDAY: dayCh = '일';
+            case Calendar.SUNDAY : dayCh = '일';
                 break;
             case Calendar.MONDAY: dayCh = '월';
                 break;
