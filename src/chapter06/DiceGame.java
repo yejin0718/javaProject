@@ -1,7 +1,5 @@
 package chapter06;
 
-import java.util.Random;
-
 public class DiceGame {
     public static void main(String[] args) {
         int count = 0;
